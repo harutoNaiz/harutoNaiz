@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋,I'm Tushar</h1>
+[<h1 align="center">Hi👋,I'm Tushar</h1>
 <h3 align="center">hi, I'm Tushar. Lots of things catch my interest, spanning a spectrum from music and gaming to programming and beyond. Computers and their inner workings have always fascinated me, driving my passion for technology. I love building things from scratch, designing system architectures or creating data flow models. Exploring various technologies and coding for fun is a favorite pastime of mine. I'm constantly pushing the boundaries of what's possible, always eager to learn and apply new concepts in innovative ways.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,3 +12,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harutonaiz&" alt="harutonaiz" /></p>
 
+](https://www.linkedin.com/in/tushar-a-0a280b254)
