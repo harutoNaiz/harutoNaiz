@@ -1,5 +1,11 @@
-[<h1 align="center">Hi👋,I'm Tushar</h1>
-<h3 align="center">hi, I'm Tushar. Lots of things catch my interest, spanning a spectrum from music and gaming to programming and beyond. Computers and their inner workings have always fascinated me, driving my passion for technology. I love building things from scratch, designing system architectures or creating data flow models. Exploring various technologies and coding for fun is a favorite pastime of mine. I'm constantly pushing the boundaries of what's possible, always eager to learn and apply new concepts in innovative ways.</h3>
+<h1 align="center" style="font-family: 'Impact', sans-serif; font-size: 4em; color: #FF1493; text-shadow: 3px 3px 5px #000000;">
+    <span style="color: #FFD700;">✨</span><span style="color: #00FFFF;"></span><span style="color: #FF4500;">haruto</span><span style="color: #00FF00;">Naiz</span><span style="color: #00FFFF;"></span><span style="color: #FFD700;">✨</span>
+</h1>
+
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/8a1860e8-4e2b-496f-b2d2-57447ee541f1)
+
+<h3 align="center">Hi, I'm Tushar! 😄 Lots of things catch my interest, spanning a spectrum from music 🎵 and gaming 🎮 to programming 💻 and beyond. Computers and their inner workings have always fascinated me 🤓, driving my passion for technology. I love building things from scratch 🔧, designing system architectures 🏗️, or creating data flow models 📊. Exploring various technologies and coding for fun is a favorite pastime of mine 🧑‍💻. I'm constantly pushing the boundaries of what's possible 🚀, always eager to learn 📚 and apply new concepts in innovative ways 💡.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
