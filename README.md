@@ -5,7 +5,7 @@
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/8a1860e8-4e2b-496f-b2d2-57447ee541f1)
 
 <h3 align="center" style="font-weight: normal; color: #444; max-width: 900px; margin: auto;">
-  Hey there — I'm <strong>Tushar</strong>, also known as <strong>HarutoNaiz</strong> across platforms. I’m a Computer Science undergrad with a drive to engineer scalable systems, build intelligent software, and explore the intersection of AI, distributed systems, and low-level computing. I enjoy creating things from scratch — whether it’s a streaming graph summarizer, a RAG-based quiz engine, or an OS-level utility. I work at the boundary between theory and implementation.
+  Hey there — I'm <strong>Tushar</strong>. I’m a Computer Science undergrad with a drive to engineer scalable systems, build intelligent software, and explore the intersection of AI, distributed systems, and low-level computing. I enjoy creating things from scratch — whether it’s a streaming graph summarizer, a RAG-based quiz engine, or an OS-level utility. I work at the boundary between theory and implementation.
 </h3>
 
 <br/>
